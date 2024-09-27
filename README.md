@@ -1,5 +1,7 @@
 # Discord Nitro Generator & Checker
 
+**DOES NOT WORK NOW , CONSIDER IT AS A EDUCATIONAL CODE**
+
 ## Presentation 📖
 **Discord Nitro Generator & Checker** is a simple, efficace and fully configurable Discord Nitro generator.  
 It supports advanced generation producing more than 100,000 links per minute
