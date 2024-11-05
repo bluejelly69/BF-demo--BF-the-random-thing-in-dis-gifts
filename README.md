@@ -1,4 +1,4 @@
-# Discord Nitro Generator & Checker
+
 
 **DOES NOT WORK NOW , CONSIDER IT AS A EDUCATIONAL CODE**
 
